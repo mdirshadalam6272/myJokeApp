@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    width: 100%;
+  
+  }
+  body{
+    background-color: black;
+  }
+  .joke{
+    
+    background-color: #f5f5f5;
+    color: blue;
+    font-size: 1.5em;
+    font-family: 'Helvitica Neue', Helvitica, Arial, san-sarif;
+    padding: 10px;
+    text-align: center;
+    width: 75%;
+    margin: 40px 0 0 40px;
+    
+   border-radius: 0 15px  0 15px;
+    
+  }
+  #h1 {
+    margin-top: 20px;
+    margin-left: 10%;
+     padding: 25px;
+    
+    background-color: #13c377;
+    font-size: 30px;
+    font-weight: bold;
+    color: #342f2d;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px
+   
+   
+    
+    
+    
+   
+    
+  }
+  .btn1 {
+    margin: 28px 0 0 35%;
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    border-radius: 10px 0 10px 0;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+  }
